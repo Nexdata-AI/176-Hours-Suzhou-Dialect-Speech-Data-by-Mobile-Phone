@@ -4,7 +4,7 @@
 ## Description
 The data were collected from 250 speakers, each with about 500 spoken sentences in Suzhou dialect. Suzhou local staff participated in the recording to ensure the authentic accent. The recording content is colloquial and life-oriented, and reading is more natural and fluent. Suzhou locals participated in QA and proofreading, and the text was transferred more accurately. Equipped with mainstream Android and Apple system phones.
 
-For more details, please refer to the link: https://bit.ly/3dHVRkd
+For more details, please refer to the link: https://www.nexdata.ai/datasets/29?source=Github
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
